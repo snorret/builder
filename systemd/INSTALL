@@ -1,0 +1,4 @@
+1. Create service configuration based on service.service.example and copy to /lib/systemd/system/
+2. Run update-systemd.sh
+3. Specify service name in config file (according to {serviceName}.service in systemd)
+4. Run start-service.sh
